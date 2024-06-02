@@ -1,3 +1,5 @@
+# Link: https://www.coursera.org/learn/operations-research-modeling/exam/CQOIk/quiz-for-week-2/attempt?redirectToCover=true
+
 import cvxpy as cp
 
 
